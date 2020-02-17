@@ -6,3 +6,6 @@ name_collection << yield(array[i])
 i += 1
 end
 name_collection
+end 
+
+my_collection
