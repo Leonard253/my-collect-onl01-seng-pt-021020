@@ -8,4 +8,3 @@ end
 name_collection
 end 
 
-my_collection(array) {|i| i.split(" ").first}
